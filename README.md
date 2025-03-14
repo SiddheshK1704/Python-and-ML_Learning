@@ -1,15 +1,22 @@
 # Python-and-ML_Learning 🚀
-A repository chronicling my exciting journey through Python and beyond, one step at a time!
-Currently, it showcases notebooks on data structures and functions, with plenty more in the pipeline. Join me as I explore, code, and learn!
+A repository documenting my exciting journey through Python and Machine Learning, one step at a time!
+
+Currently, I’m focused on mastering data structures and functions, with more exciting topics on the way. Join me as I explore, code, and level up my skills!
 
 ---
-
 📂 What's Inside
-Data Structures (Lists, Tuples, Sets, Dictionaries)
-Functions (Regular functions, Lambda functions)
+📌 Data Structures
+
+Lists
+Tuples
+Sets
+Dictionaries
 
 ---
+📌 Functions
 
+Regular functions
+Lambda functions
 ✅ Topics Explored So Far
 ✔ Lists & List Comprehension
 ✔ Tuples
@@ -18,11 +25,9 @@ Functions (Regular functions, Lambda functions)
 ✔ Functions (including Lambda functions)
 
 ---
-
 🔥 Coming Soon
-🔹 More advanced Python concepts
-🔹 A thrilling leap into Machine Learning basics
+🚀 More advanced Python concepts
+🤖 A thrilling leap into Machine Learning basics
 
 ---
-
-Stay tuned for fresh updates as I level up my skills! 🚀
+Stay tuned for fresh updates as I continue my learning journey! 🚀
