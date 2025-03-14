@@ -1,29 +1,27 @@
 # Python-and-ML_Learning 🚀
-
-A repository chronicling my exciting journey through Python and beyond, one step at a time! Currently, 
-it showcases notebooks on tuples and sets, with plenty more in the pipeline. Join me as I explore, code, and learn!
+A repository chronicling my exciting journey through Python and beyond, one step at a time!
+Currently, it showcases notebooks on data structures and functions, with plenty more in the pipeline. Join me as I explore, code, and learn!
 
 ---
 
 📂 What's Inside
-
-tuples.ipynb: A deep dive into tuple fundamentals—core operations, unpacking techniques, and practical examples.
-sets.ipynb: Unravel the power of sets—unique properties, key operations, and real-world applications.
+Data Structures (Lists, Tuples, Sets, Dictionaries)
+Functions (Regular functions, Lambda functions)
 
 ---
 
-✅ Topics Mastered So Far
-
-Lists & List Comprehension
-Tuples
-Sets
+✅ Topics Explored So Far
+✔ Lists & List Comprehension
+✔ Tuples
+✔ Sets
+✔ Dictionaries
+✔ Functions (including Lambda functions)
 
 ---
 
 🔥 Coming Soon
-
-More essential Python concepts
-A thrilling leap into Machine Learning basics
+🔹 More advanced Python concepts
+🔹 A thrilling leap into Machine Learning basics
 
 ---
 
