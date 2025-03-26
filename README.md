@@ -8,21 +8,21 @@ Welcome to my structured repository documenting my progression through the world
 |-----------------------------------|---------------------------------|----------------------------------|
 | Lists & List Comprehensions       | Function Basics                 | NumPy & Pandas                   |
 | Tuples & Named Tuples             | Lambda Expressions              | Data Visualization               |
-| Sets & Frozen Sets                | Map functions                   | Statistical Analysis             |
-| Dictionaries & Dictionary Comprehensions |                            | Machine Learning Algorithms      |
+| Sets                              | Map functions                   | Statistical Analysis             |
+| Dictionaries & Dictionary Comprehensions | Filter functions                           | Machine Learning Algorithms      |
 
 ## ✅ Completed Topics
 
 - **Data Structures**
   - Lists and List Comprehensions
-  - Tuples & Named Tuples
-  - Sets & Frozen Sets
+  - Tuples 
+  - Sets 
   - Dictionaries & Dictionary Comprehensions
 
 - **Functions**
-  - Function Definition, Scope, and Closures
+  - Function Definition
   - Lambda Functions and Anonymous Functions
-  - Map, Filter, and Reduce
+  - Map, Filter
   - Writing Clear Function Documentation
 
 ## 🔜 Upcoming Modules
