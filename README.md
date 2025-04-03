@@ -1,8 +1,8 @@
-# Python & Machine Learning Journey 🐍🤖
+#  Python & Machine Learning Journey 🐍🤖
 
 Welcome to my structured repository documenting my progression through the world of **Python programming** and **Machine Learning**. Currently, I’m focusing on mastering core **data structures** and **functional programming**, with plans to dive deeper into advanced topics like **machine learning algorithms** and **data analysis**.
 
-## 📚 Repository Contents
+##  📚 Repository Contents
 
 | **Data Structures**              | **Functions**                  | **Coming Soon**                  |
 |-----------------------------------|---------------------------------|----------------------------------|
@@ -38,7 +38,7 @@ Welcome to my structured repository documenting my progression through the world
 - Supervised Learning Algorithms (Regression, Classification)
 - Model Evaluation & Hyperparameter Tuning
 
-## 🚀 Project Goals
+##  🚀 Project Goals
 
 1. Establish a strong foundation in Python programming.
 2. Develop proficiency in data manipulation and analysis.
