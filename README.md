@@ -32,11 +32,6 @@ Welcome to my structured repository documenting my progression through the world
 - Error Handling & Debugging
 - File I/O Operations
 
-### **Machine Learning Foundations**
-- Linear Algebra & Matrices
-- Probability & Statistics for ML
-- Supervised Learning Algorithms (Regression, Classification)
-- Model Evaluation & Hyperparameter Tuning
 
 ##  🚀 Project Goals
 
